@@ -2,7 +2,8 @@ The files that I have placed in this repo are those that need to be pasted into 
 
 All uou need to do is:
 
-1. unzip it, and 
-2. move the contents of the folder into `app\src\main\res`,
+1. clone the repo
+2. unzip `res.zip`
+3. move the contents of the folder into `app\src\main\res`,
 
 and you should be able to build a new `Empty Activity` project in IntelliJ IDEA

@@ -4,6 +4,6 @@ All uou need to do is:
 
 1. clone the repo
 2. unzip `res.zip`
-3. move the contents of the folder into `app\src\main\res`,
+3. move the contents of the folder into `app\src\main\res` of your newly created Android Application,
 
 and you should be able to build a new `Empty Activity` project in IntelliJ IDEA
